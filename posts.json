@@ -1,0 +1,20 @@
+[
+  {
+    "title": "My Updated Post",
+    "content": "My first updated post!\r\n\r\nThis is exciting!",
+    "user_id": 1
+  },{
+    "title": "A Second Post",
+    "content": "This is a post from a different user...",
+    "user_id": 2
+  },{
+    "title": "Top 5 Programming Languages",
+    "content": "Te melius aperirian cum, labitur admodum cu eos! Trace",
+    "user_id": 1
+  },{
+  "title": "Sublime Text Tips and Tricks",
+  "content": "Ea vix dico modus voluptatibus, mel iudico suavitate iracunum",
+  "user_id": 1
+}
+
+]
